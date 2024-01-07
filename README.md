@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tianyang Chen@wiperi
-- 👀 I’m interested in basic algorithms right now.
-- 🌱 I’m currently learning calculus and linear algebra.
-- 💞️ I’m looking to collaborate on entry level algorithm design.
+- 👀 I’m interested in web development and data science.
+- 🌱 I’m currently learning application of graph theroy.
 - 📫 How to reach me. Email me with @tianyang.chen2@student.unsw.edu.au
 
 
